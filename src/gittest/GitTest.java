@@ -16,6 +16,10 @@ public class GitTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hallo Welt");
+        System.out.println("Änderung");
+        System.out.println("Zweite Änderung");
+        
     }
     
 }
